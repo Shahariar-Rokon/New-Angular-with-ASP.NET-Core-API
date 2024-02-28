@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is created to demonstrate **Angular 17** using **ASP.NET Core API**.  The strength of this project is that it smplifies the api and frontend relationship. It also performs as a showcase of new **Standalone** feature of angular.
+This project was created to demonstrate **Angular 17** using an **ASP.NET Core API**.  The strength of this project is that it smplifies the api and frontend relationship. It also serves as a showcase of the new **Standalone** feature of Angular.
 
 In this project, I've created a hypothetical scenario about a software where you can:
 
@@ -43,7 +43,7 @@ Update-Database
 To use this project, follow these steps:
 
 1. **Navigate to the app**: Open your browser and go to the URL where the app is hosted. For example, `https://localhost:4200/`.
-2. **Interact with the app**: The app will load a HTML page and greet you with the list of the products. If its blank, that means there is no products in the database. From there you can press the **Add product** button to add the products. Finally the option of editing and deleting the product shows with the lsit of the products.
+2. **Interact with the app**: The app will load a HTML page and greet you with the list of the products. If its blank, that means there is no products in the database. From there you can press the **Add product** button to add the products.Finally, the options for editing and deleting the product appear along with the list of products.
 3. **Explore the code**: You can open the project in Visual Studio 2022 and explore the code. The project consists of razor view, modals and for backend asp.net mvc.
 
 ## Contributing
