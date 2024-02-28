@@ -1,4 +1,4 @@
-# ASP.NET MVC SPA with Master Detail
+# ASP.NET Core API with Angular 17
 
 
 ## Description
