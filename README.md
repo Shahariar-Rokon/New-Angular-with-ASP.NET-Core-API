@@ -33,7 +33,7 @@ To install and run this project, follow these steps:
 3. Restore the NuGet packages: Right-click on the solution in the Solution Explorer and select “Restore NuGet Packages”. This will install the required dependencies for the project.
 4. Update the database connection string: In the appsettings.json file, update the DefaultConnection value with your database connection string. Make sure the database server is running and accessible.
 5. Apply the database migrations: In the Package Manager Console, run the following command to apply the code first migrations and create the database schema:
-Update-Database
+ `Update-Database`
 6. Run the project: Press F5 or click the “Run” button to launch the api named **ProductAPI** in your browser.
 7. Move to the directory of the **ProductAng** and open the folder. Now run `code .` in the terminal and enter. This will open all of the files of angular.
 8. Open terminal in vs code and enter `ng serve` or `ng serve --o`. If you chose `ng serve` then you have to menually copy the url (generated in the terminal) to a browser.
