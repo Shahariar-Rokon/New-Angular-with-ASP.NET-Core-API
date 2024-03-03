@@ -11,7 +11,7 @@ In this project, I've created a hypothetical scenario about a software where you
 - Add multiple products.
 - Submit data using angular form.
 
-This project is intended to showcase the features and capabilities of ASP.NET API and Angular 17. Feel free to explore the code and provide any feedback or contributions.
+This project is intended to showcase the features and capabilities of ASP.NET Core API and Angular 17. Feel free to explore the code and provide any feedback or contributions.
 ## Installation
 
 ### Prerequisite
