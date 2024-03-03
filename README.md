@@ -1,4 +1,4 @@
-# ASP.NET Core API with Angular 17
+# ASP.NET Core API with Angular 17 (Standalone)
 
 
 ## Description
